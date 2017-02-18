@@ -5,7 +5,7 @@ Really simple, just edit `static/lib/main.js` and paste in `console.log('hello w
 
 ## Installation
 
-    npm install nodebb-time-scheduler
+    npm install nodebb-plugin-time-scheduler
 
 ## Screenshots
 

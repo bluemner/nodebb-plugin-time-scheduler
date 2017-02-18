@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-time-scheduler",
-	"url": "https://github.com/bluemner/nodebb-time-scheduler",
+	"id": "nodebb-plugin-time-scheduler",
+	"url": "https://github.com/bluemner/nodebb-plugin-time-scheduler",
 	"library": "./library.js",
 	"hooks": [
 		{

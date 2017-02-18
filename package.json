@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-time-scheduler",
+  "name": "nodebb-plugin-time-scheduler",
   "version": "0.2.3",
   "description": "A starter kit for quickly creating NodeBB plugins",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bluemner/nodebb-time-scheduler"
+    "url": "https://github.com/bluemner/nodebb-plugin-time-scheduler"
   },
   "keywords": [
     "nodebb",
@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bluemner/nodebb-time-scheduler/issues"
+    "url": "https://github.com/bluemner/nodebb-plugin-time-scheduler/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
