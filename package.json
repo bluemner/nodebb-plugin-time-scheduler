@@ -1,0 +1,29 @@
+{
+  "name": "nodebb-time-scheduler",
+  "version": "0.2.3",
+  "description": "A starter kit for quickly creating NodeBB plugins",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluemner/nodebb-time-scheduler"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "time",
+    "scheduler",
+    "shell"
+  ],
+  "author": {
+    "name": "brandon bluemner",
+    "email": "admin@betacore.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluemner/nodebb-time-scheduler/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  }
+}
